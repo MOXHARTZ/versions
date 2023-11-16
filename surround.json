@@ -1,5 +1,5 @@
 {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "descriptions": [
         "Now the songs will load twice as fast.",
         "Fixed the mx-surround's api constantly crashing.",
