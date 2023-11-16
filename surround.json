@@ -1,8 +1,10 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "descriptions": [
         "Now the songs will load twice as fast.",
         "Fixed the mx-surround's api constantly crashing.",
-        "There is no longer any use of api in any way. After 1 week all versions below this version 1.0.5 will not work."
+        "There is no longer any use of api in any way. After 1 week all versions below this version 1.0.5 will not work.",
+        "stream/web debug warning is disabled.",
+        "Prevented start before Yarn"
     ]
 }
