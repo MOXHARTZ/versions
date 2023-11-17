@@ -1,11 +1,13 @@
 {
-    "version": "1.0.7",
+    "version": "1.0.8",
     "descriptions": [
         "Now the songs will load twice as fast.",
         "Fixed the mx-surround's api constantly crashing.",
         "There is no longer any use of api in any way. After 1 week all versions below this version 1.0.5 will not work.",
         "stream/web debug warning is disabled.",
         "Prevented start before Yarn",
-        "Fixed the issue with api. Now it will work properly."
+        "Fixed the issue with api. Now it will work properly.",
+        "Fixed local sounds not playing.",
+        "Fixed an issue with Interact sounds constantly playing."
     ]
 }
