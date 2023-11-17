@@ -1,5 +1,5 @@
 {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "descriptions": [
         "Now the songs will load twice as fast.",
         "Fixed the mx-surround's api constantly crashing.",
@@ -8,6 +8,7 @@
         "Prevented start before Yarn",
         "Fixed the issue with api. Now it will work properly.",
         "Fixed local sounds not playing.",
-        "Fixed an issue with Interact sounds constantly playing."
+        "Fixed an issue with Interact sounds constantly playing.",
+        "Tried to fix timeout issue. (We need more feedback on this)"
     ]
 }
