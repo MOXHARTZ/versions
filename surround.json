@@ -1,9 +1,9 @@
 {
-    "version": "1.1.0",
+    "version": "1.1.5",
     "descriptions": [
-        "The API has been stabilized again.",
-        "The api on FiveM has been removed.",
-        "Memory leak fixed.",
-        "API server has been upgraded. Now it's harder to down."
+        "This is critical update!",
+        "Added new extra `searchTrack`. You can learn it what is does from api",
+        "Removed youtube and spotify support.",
+        "We hope that will now be able to play your songs without any problems"
     ]
 }
