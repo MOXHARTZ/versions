@@ -4,6 +4,7 @@
         "This is critical update!",
         "Added new extra `searchTrack`. You can learn it what is does from api",
         "Removed youtube and spotify support.",
-        "We hope that will now be able to play your songs without any problems"
+        "We hope that will now be able to play your songs without any problems",
+        "Now you can play sounds from other scripts."
     ]
 }
