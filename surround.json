@@ -1,10 +1,8 @@
 {
-    "version": "1.1.5",
+    "version": "1.2.0",
     "descriptions": [
-        "This is critical update!",
-        "Added new extra `searchTrack`. You can learn it what is does from api",
-        "Removed youtube and spotify support.",
-        "We hope that will now be able to play your songs without any problems",
-        "Now you can play sounds from other scripts."
+        "Welcome back again youtube and spotify!",
+        "Now when you search, it will be done on youtube. Not on shitty soundcloud. So your songs will load faster.",
+        "You can't play songs longer than 15 minutes on YouTube (the download time is too long and contains too much large data)."
     ]
 }
