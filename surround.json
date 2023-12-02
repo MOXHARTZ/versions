@@ -1,11 +1,13 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "descriptions": [
         "Added new extra `searchTrack`. You can learn it what is does from api",
         "Now you can play sounds from other scripts.",
         "Welcome back again youtube and spotify!",
         "Now when you search, it will be done on youtube. Not on shitty soundcloud. So your songs will load faster.",
         "You can't play songs longer than 15 minutes on YouTube (the download time is too long and contains too much large data).",
-        "Fixed the issue with `AttachPlayer` export."
+        "Fixed the issue with `AttachPlayer` export.",
+        "HOTFIX: the problem of not being able to type a space in search was solved directly in mx-surround. So now you don't need to delete the spaces yourself",
+        "Little improvements"
     ]
 }
