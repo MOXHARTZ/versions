@@ -1,5 +1,5 @@
 {
-    "version": "1.2.8",
+    "version": "1.2.9",
     "descriptions": [
         "`SetStereoWhenInterior` has been added. with this feature, now when you play a song in the interior, it will come from both channels. So it will not be heard in 3d. If you don't like this, set it to false",
         "Added `Config.StaticSounds`. now you can add your songs to a coords",
