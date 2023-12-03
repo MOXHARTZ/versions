@@ -1,14 +1,10 @@
 {
-    "version": "1.2.3",
+    "version": "1.2.8",
     "descriptions": [
-        "Added new extra `searchTrack`. You can learn it what is does from api",
-        "Now you can play sounds from other scripts.",
-        "Welcome back again youtube and spotify!",
-        "Now when you search, it will be done on youtube. Not on shitty soundcloud. So your songs will load faster.",
-        "You can't play songs longer than 15 minutes on YouTube (the download time is too long and contains too much large data).",
-        "Fixed the issue with `AttachPlayer` export.",
-        "HOTFIX: the problem of not being able to type a space in search was solved directly in mx-surround. So now you don't need to delete the spaces yourself",
-        "Minor improvements",
-        "`SetStereoWhenInterior` has been added. with this feature, now when you play a song in the interior, it will come from both channels. So it will not be heard in 3d. If you don't like this, set it to false"
+        "`SetStereoWhenInterior` has been added. with this feature, now when you play a song in the interior, it will come from both channels. So it will not be heard in 3d. If you don't like this, set it to false",
+        "Added `Config.StaticSounds`. now you can add your songs to a coords",
+        "Fixed the issue of giving ownership of sync songs to other players.",
+        "Fixed a memoryleak issue",
+        "Audioplayer, caradio and boombox have also received several improvements and fixes."
     ]
 }
