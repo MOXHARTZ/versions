@@ -1,5 +1,5 @@
 {
-    "version": "1.3.2",
+    "version": "1.3.3",
     "descriptions": [
         "`SetStereoWhenInterior` has been added. with this feature, now when you play a song in the interior, it will come from both channels. So it will not be heard in 3d. If you don't like this, set it to false",
         "Added `Config.StaticSounds`. now you can add your songs to a coords",
@@ -8,6 +8,7 @@
         "Audioplayer, caradio and boombox have also received several improvements and fixes.",
         "Fixed error when you first starting",
         "Fixed the problem that when you connect a song to a player with `AttachPlayer`, the song is connected to the car when that player gets in and out of the car",
-        "Fixed a problem when have slow connection speed"
+        "Fixed a problem when have slow connection speed",
+        "Fixed `Play` export does not return soundId"
     ]
 }
