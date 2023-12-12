@@ -1,5 +1,5 @@
 {
-    "version": "1.3.4",
+    "version": "1.3.5",
     "descriptions": [
         "`SetStereoWhenInterior` has been added. with this feature, now when you play a song in the interior, it will come from both channels. So it will not be heard in 3d. If you don't like this, set it to false",
         "Added `Config.StaticSounds`. now you can add your songs to a coords",
@@ -10,6 +10,8 @@
         "Fixed the problem that when you connect a song to a player with `AttachPlayer`, the song is connected to the car when that player gets in and out of the car",
         "Fixed a problem when have slow connection speed",
         "Fixed `Play` export does not return soundId",
-        "Now supporting the discord links"
+        "Now supporting the discord links",
+        "Added `PlayUrlPos` for xsound server-side provider",
+        "Added `PlayUrl` for xsound server-side provider"
     ]
 }
