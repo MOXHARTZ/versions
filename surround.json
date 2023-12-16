@@ -1,5 +1,5 @@
 {
-    "version": "1.5.0",
+    "version": "1.5.2",
     "descriptions": [
         "updateTime handler has been updated. It will now be triggered when the time of the song is updated not by interval",
         "Songs will now play 2 to 3 seconds faster than before. (Songs longer than 15 minutes are no longer checked when playing a song. But when searching or pulling information from a url, songs longer than 15 minutes will not be listed. So it's now your responsibility to play songs longer than 15 minutes)",
@@ -8,6 +8,13 @@
         "Fixed sometimes audioplayer's loader showing forever",
         "Search is now 2 times faster",
         "Fixed a very rare bug in the API where the song would not play",
-        "In audioplayer fixed currentTime being confused when you play more than one song"
+        "In audioplayer fixed currentTime being confused when you play more than one song",
+        "Fixed the issue where if you try to play the same id song again very quickly, the song is played twice without destroying it",
+        "Fixed the problem that when a song is attached to a entity the song is not attached due to infinity",
+        "The currentTime update from yesterday has been reverted because it caused a ui lag issue",
+        "Fixed local audio files playing slower than before",
+        "Fixed a bug when you play a song and then destroy before it loads",
+        "`xsound:streamerMode` event added. Its same as xsound",
+        "Some minor optimizations on the ui"
     ]
 }
