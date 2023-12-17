@@ -1,5 +1,5 @@
 {
-    "version": "1.5.2",
+    "version": "1.5.3",
     "descriptions": [
         "updateTime handler has been updated. It will now be triggered when the time of the song is updated not by interval",
         "Songs will now play 2 to 3 seconds faster than before. (Songs longer than 15 minutes are no longer checked when playing a song. But when searching or pulling information from a url, songs longer than 15 minutes will not be listed. So it's now your responsibility to play songs longer than 15 minutes)",
@@ -15,6 +15,7 @@
         "Fixed local audio files playing slower than before",
         "Fixed a bug when you play a song and then destroy before it loads",
         "`xsound:streamerMode` event added. Its same as xsound",
-        "Some minor optimizations on the ui"
+        "Some minor optimizations on the ui",
+        "New export `getAllAudioInfo` added. It returns all the information of the audio"
     ]
 }
