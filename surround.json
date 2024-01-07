@@ -1,8 +1,9 @@
 {
-    "version": "1.6.0",
+    "version": "1.6.2",
     "descriptions": [
         "`createFilter` and `destroyFilter` are now much smoother.",
         "When the song is destroyed the song will now disappear more smoothly.",
-        "Vehicle filter has been changed"
+        "Vehicle filter has been changed",
+        "Fixed an issue where the filter was not added when you move away from an interior sound and then closer again"
     ]
 }
