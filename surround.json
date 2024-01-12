@@ -1,9 +1,10 @@
 {
-    "version": "1.6.2",
+    "version": "1.6.3",
     "descriptions": [
         "`createFilter` and `destroyFilter` are now much smoother.",
         "When the song is destroyed the song will now disappear more smoothly.",
         "Vehicle filter has been changed",
-        "Fixed an issue where the filter was not added when you move away from an interior sound and then closer again"
+        "Fixed an issue where the filter was not added when you move away from an interior sound and then closer again",
+        "If the entity to which you attach a sound is deleted the sound will be deleted too"
     ]
 }
