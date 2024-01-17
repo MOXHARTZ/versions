@@ -1,5 +1,5 @@
 {
-    "version": "1.6.5",
+    "version": "1.6.6",
     "descriptions": [
         "`createFilter` and `destroyFilter` are now much smoother.",
         "When the song is destroyed the song will now disappear more smoothly.",
@@ -7,6 +7,10 @@
         "Fixed an issue where the filter was not added when you move away from an interior sound and then closer again",
         "If the entity to which you attach a sound is deleted the sound will be deleted too",
         "`interactsound` providers's refactored",
-        "Better fade"
+        "Better fade",
+        "Now you can configure the fade duration",
+        "Now you can disable the interior filter",
+        "Now you can disable the vehicle filter",
+        "Now you can play a song on the server by triggering the event"
     ]
 }
