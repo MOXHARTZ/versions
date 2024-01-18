@@ -1,5 +1,5 @@
 {
-    "version": "1.6.6",
+    "version": "1.6.8",
     "descriptions": [
         "`createFilter` and `destroyFilter` are now much smoother.",
         "When the song is destroyed the song will now disappear more smoothly.",
@@ -11,6 +11,9 @@
         "Now you can configure the fade duration",
         "Now you can disable the interior filter",
         "Now you can disable the vehicle filter",
-        "Now you can play a song on the server by triggering the event"
+        "Now you can play a song on the server by triggering the event",
+        "Error messages are more readable",
+        "Fixed a very rare blob bug",
+        "IMPORTANT: Fixed set functions not working properly for players other than the person started the song"
     ]
 }
