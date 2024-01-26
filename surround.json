@@ -1,5 +1,5 @@
 {
-    "version": "1.6.8",
+    "version": "1.6.9",
     "descriptions": [
         "`createFilter` and `destroyFilter` are now much smoother.",
         "When the song is destroyed the song will now disappear more smoothly.",
@@ -14,6 +14,8 @@
         "Now you can play a song on the server by triggering the event",
         "Error messages are more readable",
         "Fixed a very rare blob bug",
-        "IMPORTANT: Fixed set functions not working properly for players other than the person started the song"
+        "IMPORTANT: Fixed set functions not working properly for players other than the person started the song",
+        "Now local sounds will be load 100% at once",
+        "Refactored `CreateUniqueId` function"
     ]
 }
