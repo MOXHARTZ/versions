@@ -1,5 +1,5 @@
 {
-    "version": "1.6.9",
+    "version": "1.7.0",
     "descriptions": [
         "`createFilter` and `destroyFilter` are now much smoother.",
         "When the song is destroyed the song will now disappear more smoothly.",
@@ -16,6 +16,7 @@
         "Fixed a very rare blob bug",
         "IMPORTANT: Fixed set functions not working properly for players other than the person started the song",
         "Now local sounds will be load 100% at once",
-        "Refactored `CreateUniqueId` function"
+        "Refactored `CreateUniqueId` function",
+        "More debug messages"
     ]
 }
