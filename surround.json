@@ -1,5 +1,5 @@
 {
-    "version": "1.7.2",
+    "version": "1.7.3",
     "descriptions": [
         "`createFilter` and `destroyFilter` are now much smoother.",
         "When the song is destroyed the song will now disappear more smoothly.",
@@ -19,6 +19,8 @@
         "Refactored `CreateUniqueId` function",
         "More debug messages",
         "Better xsound support",
-        "Potential solution for sound not attaching to an entity"
+        "Potential solution for sound not attaching to an entity",
+        "Fixed an issue where the song would not play or would be canceled after a certain period of time when players using streamer mode were given ownership of the song.",
+        "Debug has been changed to convar and can now be changed instantly from cmd. Convar name is: `surround:debug`. Check the config for more information"
     ]
 }
