@@ -1,27 +1,6 @@
 {
-    "version": "1.7.4",
+    "version": "1.7.5",
     "descriptions": [
-        "`createFilter` and `destroyFilter` are now much smoother.",
-        "When the song is destroyed the song will now disappear more smoothly.",
-        "Vehicle filter has been changed",
-        "Fixed an issue where the filter was not added when you move away from an interior sound and then closer again",
-        "If the entity to which you attach a sound is deleted the sound will be deleted too",
-        "`interactsound` providers's refactored",
-        "Better fade",
-        "Now you can configure the fade duration",
-        "Now you can disable the interior filter",
-        "Now you can disable the vehicle filter",
-        "Now you can play a song on the server by triggering the event",
-        "Error messages are more readable",
-        "Fixed a very rare blob bug",
-        "IMPORTANT: Fixed set functions not working properly for players other than the person started the song",
-        "Now local sounds will be load 100% at once",
-        "Refactored `CreateUniqueId` function",
-        "More debug messages",
-        "Better xsound support",
-        "Potential solution for sound not attaching to an entity",
-        "Fixed an issue where the song would not play or would be canceled after a certain period of time when players using streamer mode were given ownership of the song.",
-        "Debug has been changed to convar and can now be changed instantly from cmd. Convar name is: `surround:debug`. Check the config for more information",
-        "Fixed math.random sometimes not generating different id"
+        "Some error prints set to debug level"
     ]
 }
