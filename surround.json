@@ -1,6 +1,7 @@
 {
-    "version": "1.7.5",
+    "version": "1.7.6",
     "descriptions": [
-        "Some error prints set to debug level"
+        "Some error prints set to debug level",
+        "New configurable variable `Config.SetStereoWhenClosestToSound`"
     ]
 }
