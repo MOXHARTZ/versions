@@ -1,7 +1,8 @@
 {
-    "version": "1.7.6",
+    "version": "1.7.7",
     "descriptions": [
         "Some error prints set to debug level",
-        "New configurable variable `Config.SetStereoWhenClosestToSound`"
+        "New configurable variable `Config.SetStereoWhenClosestToSound`",
+        "Potential Fix: Now when sound is not played on x. Not'll be destroyed."
     ]
 }
