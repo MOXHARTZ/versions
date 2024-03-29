@@ -1,11 +1,14 @@
 {
-    "version": "1.7.9",
+    "version": "1.8.0",
     "descriptions": [
         "Some error prints set to debug level",
         "New configurable variable `Config.SetStereoWhenClosestToSound`",
         "Potential Fix: Now when sound is not played on x. Not'll be destroyed.",
         "Load time is now faster (Must be)",
         "Fixed all songs being destroyed when a new player enters the game.",
-        "Fixed an issue with sound not connecting to the entity due to a recent update."
+        "Fixed an issue with sound not connecting to the entity due to a recent update.",
+        "Added new server side export `getMaxDuration`",
+        "Fixed static sounds not syncing for new players (The current time of the song will be the same for every player)",
+        "Fixed static sounds playing twice when you use streamermode or exit and enter the game (Probably)"
     ]
 }
