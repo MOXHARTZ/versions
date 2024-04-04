@@ -1,5 +1,5 @@
 {
-    "version": "1.8.5",
+    "version": "1.8.6",
     "descriptions": [
         "Some error prints set to debug level",
         "New configurable variable `Config.SetStereoWhenClosestToSound`",
@@ -10,6 +10,7 @@
         "Added new server side export `getMaxDuration`",
         "Fixed static sounds not syncing for new players (The current time of the song will be the same for every player)",
         "Fixed static sounds playing twice when you use streamermode or exit and enter the game",
-        "When a song is playing, it will only play for nearby players. It will not be played for far away players. This will provide a significant optimization (you must upgrade surround to 1.8.5 by March 8! otherwise surround will not work)"
+        "When a song is playing, it will only play for nearby players. It will not be played for far away players. This will provide a significant optimization (you must upgrade surround to 1.8.5 by Apr 8! otherwise surround will not work)",
+        "Fixed an issue with interact_sound"
     ]
 }
