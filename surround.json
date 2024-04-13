@@ -1,5 +1,5 @@
 {
-    "version": "1.8.8",
+    "version": "1.9.0",
     "descriptions": [
         "Some error prints set to debug level",
         "New configurable variable `Config.SetStereoWhenClosestToSound`",
@@ -15,6 +15,9 @@
         "Fixed the issue with maxDuration being nil in client side play export.",
         "Fixed filter not working properly on `AttachPlayer`",
         "Added more information about filter and panner",
-        "Fixed the filter becoming normal when the hood or trunk of vehicles is open"
+        "Fixed the filter becoming normal when the hood or trunk of vehicles is open",
+        "Added support for spotify playlists",
+        "Added support for spotify album",
+        "Added support for youtube playlists"
     ]
 }
