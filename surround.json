@@ -18,6 +18,7 @@
         "Fixed the filter becoming normal when the hood or trunk of vehicles is open",
         "Added support for spotify playlists",
         "Added support for spotify album",
-        "Added support for youtube playlists"
+        "Added support for youtube playlists",
+        "Added new export `searchTracks`"
     ]
 }
