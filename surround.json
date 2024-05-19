@@ -1,24 +1,6 @@
 {
-    "version": "1.9.0",
+    "version": "1.9.1",
     "descriptions": [
-        "Some error prints set to debug level",
-        "New configurable variable `Config.SetStereoWhenClosestToSound`",
-        "Potential Fix: Now when sound is not played on x. Not'll be destroyed.",
-        "Load time is now faster (Must be)",
-        "Fixed all songs being destroyed when a new player enters the game.",
-        "Fixed an issue with sound not connecting to the entity due to a recent update.",
-        "Added new server side export `getMaxDuration`",
-        "Fixed static sounds not syncing for new players (The current time of the song will be the same for every player)",
-        "Fixed static sounds playing twice when you use streamermode or exit and enter the game",
-        "When a song is playing, it will only play for nearby players. It will not be played for far away players. This will provide a significant optimization (you must upgrade surround to 1.8.5 by Apr 8! otherwise surround will not work)",
-        "Fixed an issue with interact_sound",
-        "Fixed the issue with maxDuration being nil in client side play export.",
-        "Fixed filter not working properly on `AttachPlayer`",
-        "Added more information about filter and panner",
-        "Fixed the filter becoming normal when the hood or trunk of vehicles is open",
-        "Added support for spotify playlists",
-        "Added support for spotify album",
-        "Added support for youtube playlists",
-        "Added new export `searchTracks`"
+        "- Fixed the problem of sound not attaching to entity when Config.SetStereoWhenClosestToSound is false"
     ]
 }
