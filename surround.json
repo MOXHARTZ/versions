@@ -1,5 +1,5 @@
 {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "descriptions": [
         "- Stereo panner removed, now always using spatial panner",
         "Fixed sound explosion at the start of a song, when entering or exiting an interior, vehicle, and when audio first starts",
