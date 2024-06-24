@@ -1,5 +1,5 @@
 {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "descriptions": [
         "- Stereo panner removed, now always using spatial panner",
         "Fixed sound explosion at the start of a song, when entering or exiting an interior, vehicle, and when audio first starts",
@@ -7,6 +7,8 @@
         "It's now possible to connect a player or entity directly to a server side async play export",
         "You can play sub 1 second songs more cleanly than before",
         "Fixed sound explosion when you get too close to the location where a sound is playing",
-        "Fixed PlaySoundAsync not becoming stereo at startup when attachEntity is given"
+        "Fixed PlaySoundAsync not becoming stereo at startup when attachEntity is given",
+        "Fixed muffled stereo sound",
+        "Fixed songs sometimes not being loaded by some players."
     ]
 }
