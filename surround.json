@@ -1,5 +1,5 @@
 {
-    "version": "2.0.4",
+    "version": "2.0.5",
     "descriptions": [
         "- Stereo panner removed, now always using spatial panner",
         "Fixed sound explosion at the start of a song, when entering or exiting an interior, vehicle, and when audio first starts",
@@ -10,6 +10,7 @@
         "Fixed PlaySoundAsync not becoming stereo at startup when attachEntity is given",
         "Fixed muffled stereo sound",
         "Fixed songs sometimes not being loaded by some players.",
-        "Fixed a looped song not checking the distance when it replay"
+        "Fixed a looped song not checking the distance when it replay",
+        "Hotfix for spam"
     ]
 }
