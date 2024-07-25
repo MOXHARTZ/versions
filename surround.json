@@ -1,5 +1,5 @@
 {
-    "version": "2.0.5",
+    "version": "2.0.6",
     "descriptions": [
         "- Stereo panner removed, now always using spatial panner",
         "Fixed sound explosion at the start of a song, when entering or exiting an interior, vehicle, and when audio first starts",
@@ -11,6 +11,7 @@
         "Fixed muffled stereo sound",
         "Fixed songs sometimes not being loaded by some players.",
         "Fixed a looped song not checking the distance when it replay",
-        "Hotfix for spam"
+        "Hotfix for spam",
+        "Fixed a looped song not repeating again after a while"
     ]
 }
