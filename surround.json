@@ -1,5 +1,5 @@
 {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "descriptions": [
         "Stereo panner removed, now always using spatial panner",
         "Fixed sound explosion at the start of a song, when entering or exiting an interior, vehicle, and when audio first starts",
@@ -15,6 +15,7 @@
         "Fixed a looped song not repeating again after a while",
         "Added new export `Prepare`. For Youtube, Spotify and Soundcloud this must be used once. If not, the song will not play. (It only needs to be called 1 time, which makes the link ready. Calling it more than once will result in an error)",
         "With `Prepare` export you can do error expection. Check the docs for details",
-        "Fixed static sounds problem"
+        "Fixed static sounds problem",
+        "Fixed a problem that caused sound problem after seek"
     ]
 }
