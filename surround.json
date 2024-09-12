@@ -1,5 +1,5 @@
 {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "descriptions": [
         "Stereo panner removed, now always using spatial panner",
         "Fixed sound explosion at the start of a song, when entering or exiting an interior, vehicle, and when audio first starts",
@@ -19,6 +19,8 @@
         "Fixed a problem that caused sound problem after seek",
         "Api has been added to surround's files as open source.",
         "The code has been minimised and turned into an exe so that the api can be easily used by everyone. It can be downloaded and run directly.",
-        "This is not something like leaving the project or something like that, you can now create and manage your own api yourself."
+        "This is not something like leaving the project or something like that, you can now create and manage your own api yourself.",
+        "Update api error messages",
+        "Downgrade the ytdl version because of error."
     ]
 }
