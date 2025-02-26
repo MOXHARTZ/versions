@@ -1,5 +1,5 @@
 {
-    "version": "2.2.4",
+    "version": "2.2.5",
     "descriptions": [
         "Stereo panner removed, now always using spatial panner",
         "Fixed sound explosion at the start of a song, when entering or exiting an interior, vehicle, and when audio first starts",
@@ -24,6 +24,8 @@
         "Delete api from source",
         "Addedinvoking resource to debug",
         "Fix `InitStaticSoundsToPlayer` error when streamer mode is enabled",
-        "When streamermode is active, now can play stereo sounds. But server side exports are not allowed. Just client side exports allowed."
+        "When streamermode is active, now can play stereo sounds. But server side exports are not allowed. Just client side exports allowed.",
+        "Now an attached song will be deleted when the vehicle is deleted. This will solve the problem of hearing songs playing in other vehicles when people get into them.",
+        "Fixed error spam in F8"
     ]
 }
