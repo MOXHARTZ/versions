@@ -1,5 +1,5 @@
 {
-    "version": "2.4.2",
+    "version": "2.4.3",
     "descriptions": [
         "We have renewed all our 3d audio features! (We had to) We believe it will be more optimized and stable now",
         "The sounds you play on the server side will now synchronize with everyone! It will play at the same second for everyone! (1 or 1.5 seconds may deviate)",
@@ -13,6 +13,7 @@
         "Added `onPlayEnd` export",
         "Now spotify-uri will be provided locally. No need to install with nodejs",
         "Fix volume is not synced when filter is applied to the sound",
-        "Now the filter and sound will update on every tick instead of updating instantly. I believe this will be more stable"
+        "Now the filter and sound will update on every tick instead of updating instantly. I believe this will be more stable",
+        "Added support for external sounds"
     ]
 }
