@@ -1,5 +1,5 @@
 {
-    "version": "2.5.2",
+    "version": "2.5.3",
     "descriptions": [
         "We have renewed all our 3d audio features! (We had to) We believe it will be more optimized and stable now",
         "The sounds you play on the server side will now synchronize with everyone! It will play at the same second for everyone! (1 or 1.5 seconds may deviate)",
@@ -27,6 +27,7 @@
         "Sounds that are no longer nearby are no longer initialized on startup. In this way, unnecessary iframe usage in dom will be minimized",
         "Fix seek is not working",
         "Fix local audios duplicating",
-        "Fix spotify thumbnail path"
+        "Fix spotify thumbnail path",
+        "Fixed stopped songs playing when the player enters the game"
     ]
 }
