@@ -1,5 +1,5 @@
 {
-    "version": "2.5.7",
+    "version": "2.5.8",
     "descriptions": [
         "We have renewed all our 3d audio features! (We had to) We believe it will be more optimized and stable now",
         "The sounds you play on the server side will now synchronize with everyone! It will play at the same second for everyone! (1 or 1.5 seconds may deviate)",
@@ -32,6 +32,8 @@
         "Default thumbnail set for playlists without spotify thumbnail",
         "fixed an issue where local sounds were created before the context was created",
         "fixed the song playing automatically again after finish.",
-        "fixed the problem of pulling the url and information of a youtube song. But youtube key is used for this too. So youtube key is now used for 2 things: youtube playlist, youtube url"
+        "fixed the problem of pulling the url and information of a youtube song. But youtube key is used for this too. So youtube key is now used for 2 things: youtube playlist, youtube url",
+        "Better handler for doors and trunk.",
+        "Fix spotify search track issue"
     ]
 }
