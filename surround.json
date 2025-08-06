@@ -1,5 +1,5 @@
 {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "descriptions": [
         "Youtube search is using yt api, so you need to set token if you want to use search.",
         "Added `getSoundData` server export",
@@ -7,6 +7,8 @@
         "Now you can pass `maxResults` to search export.",
         "Fixed a problem when you pause and play sound, the `paused` state is stuck on `true`",
         "Added `onPlayEnd` export on server",
-        "Fix rare error on server side"
+        "Fix rare error on server side",
+        "Fix old static sounds not working",
+        "Tweak for search and other things that use tokens, if you don't set a token, you will be better informed."
     ]
 }
