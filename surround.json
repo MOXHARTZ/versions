@@ -9,6 +9,8 @@
         "Added `onPlayEnd` export on server",
         "Fix rare error on server side",
         "Fix old static sounds not working",
-        "Tweak for search and other things that use tokens, if you don't set a token, you will be better informed."
+        "Tweak for search and other things that use tokens, if you don't set a token, you will be better informed.",
+        "Try again when the song fails to load",
+        "Possible fix for `failed` error in local sounds"
     ]
 }
