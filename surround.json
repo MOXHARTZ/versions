@@ -1,5 +1,5 @@
 {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "descriptions": [
         "Youtube search is using yt api, so you need to set token if you want to use search.",
         "Added `getSoundData` server export",
@@ -11,6 +11,8 @@
         "Fix old static sounds not working",
         "Tweak for search and other things that use tokens, if you don't set a token, you will be better informed.",
         "Try again when the song fails to load",
-        "Possible fix for `failed` error in local sounds"
+        "Possible fix for `failed` error in local sounds",
+        "Added new `ErrorWithInvokingResource` now you can see which script uses surround wrong.",
+        "Changed `there is no player` info message from warning to debug. So it'll not show if you didn't set debug to true."
     ]
 }
