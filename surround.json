@@ -1,5 +1,5 @@
 {
-    "version": "3.0.3",
+    "version": "3.0.4",
     "descriptions": [
         "Youtube search is using yt api, so you need to set token if you want to use search.",
         "Added `getSoundData` server export",
@@ -13,6 +13,7 @@
         "Try again when the song fails to load",
         "Possible fix for `failed` error in local sounds",
         "Added new `ErrorWithInvokingResource` now you can see which script uses surround wrong.",
-        "Changed `there is no player` info message from warning to debug. So it'll not show if you didn't set debug to true."
+        "Changed `there is no player` info message from warning to debug. So it'll not show if you didn't set debug to true.",
+        "Fixes a rare error on search export"
     ]
 }
