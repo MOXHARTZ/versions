@@ -1,0 +1,18 @@
+{
+    "version": "5.5.0",
+    "descriptions": [
+        "Target support added",
+        "New design",
+        "Added a lot of gardrobe support",
+        "fix room distance issue",
+        "Added codem support",
+        "WeatherSyncEvent added",
+        "Added origen support",
+        "Fix qb permission issue",
+        "customMotelRooms can be useable in ui",
+        "Added new `Config.doorMarkerDistance`",
+        "Fixed checkPlayerInRoom function issue",
+        "A lot of bug fixes",
+        "Added new locales (ar, cn, de, es, fr, it, jp, ko, lt, pt, ro, ru, tr)"
+    ]
+}
