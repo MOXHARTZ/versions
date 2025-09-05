@@ -1,5 +1,5 @@
 {
-    "version": "5.5.0",
+    "version": "5.5.1",
     "descriptions": [
         "Target support added",
         "New design",
@@ -13,6 +13,12 @@
         "Added new `Config.doorMarkerDistance`",
         "Fixed checkPlayerInRoom function issue",
         "A lot of bug fixes",
-        "Added new locales (ar, cn, de, es, fr, it, jp, ko, lt, pt, ro, ru, tr)"
+        "Added new locales (ar, cn, de, es, fr, it, jp, ko, lt, pt, ro, ru, tr)",
+        "Fix rcore_clothing event (Credit iSentrie)",
+        "Menu modal redesigned and looking great right now",
+        "Missing `price` locale added.",
+        "Added better locale for general.payment.",
+        "The issue where only your coordinates were updated when you re-entered after the motel you were in during your last entry was deleted has been fixed. Now your last motel will also be cleared.",
+        "The self-management location has been removed. Players will now access room interactions from the menu opened at the reception. This change was made to enable players to find coordinates more easily and to provide a more user-friendly experience."
     ]
 }
