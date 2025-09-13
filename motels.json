@@ -19,6 +19,9 @@
         "Missing `price` locale added.",
         "Added better locale for general.payment.",
         "The issue where only your coordinates were updated when you re-entered after the motel you were in during your last entry was deleted has been fixed. Now your last motel will also be cleared.",
-        "The self-management location has been removed. Players will now access room interactions from the menu opened at the reception. This change was made to enable players to find coordinates more easily and to provide a more user-friendly experience."
+        "The self-management location has been removed. Players will now access room interactions from the menu opened at the reception. This change was made to enable players to find coordinates more easily and to provide a more user-friendly experience.",
+        "Fix for missing locales",
+        "Fix No options found",
+        "Fix ox stashSettings"
     ]
 }
