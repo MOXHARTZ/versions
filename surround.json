@@ -1,5 +1,5 @@
 {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "descriptions": [
         "Youtube search is using yt api, so you need to set token if you want to use search.",
         "Added `getSoundData` server export",
@@ -15,6 +15,7 @@
         "Added new `ErrorWithInvokingResource` now you can see which script uses surround wrong.",
         "Changed `there is no player` info message from warning to debug. So it'll not show if you didn't set debug to true.",
         "Fixes a rare error on search export",
-        "Fix youtube memory leak issue (Big thanks going to https://github.com/Xogy)"
+        "Fix youtube memory leak issue (Big thanks going to https://github.com/Xogy)",
+        "Improved and fixes xsound server exports. Thanks to Zackaery for contrubition!"
     ]
 }
