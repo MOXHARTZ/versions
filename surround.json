@@ -1,5 +1,5 @@
 {
-    "version": "3.1.2",
+    "version": "3.1.3",
     "descriptions": [
         "Youtube search is using yt api, so you need to set token if you want to use search.",
         "Added `getSoundData` server export",
@@ -17,6 +17,8 @@
         "Fixes a rare error on search export",
         "Fix youtube memory leak issue (Big thanks going to https://github.com/Xogy)",
         "Improved and fixes xsound server exports. Thanks to Zackaery for contrubition!",
-        "Fix duplicate local sound"
+        "Fix duplicate local sound",
+        "Added setDisableInteriorFilter",
+        "Added setDisableVehicleFilter"
     ]
 }
