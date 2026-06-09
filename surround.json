@@ -1,5 +1,5 @@
 {
-    "version": "3.1.4",
+    "version": "3.1.5",
     "descriptions": [
         "Youtube search is using yt api, so you need to set token if you want to use search.",
         "Added `getSoundData` server export",
@@ -20,6 +20,7 @@
         "Fix duplicate local sound",
         "Added setDisableInteriorFilter",
         "Added setDisableVehicleFilter",
-        "Fix `setStereoMode` to false not working"
+        "Fix `setStereoMode` to false not working",
+        "Move youtubekey to server side for avoid leaks"
     ]
 }
