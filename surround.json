@@ -1,5 +1,5 @@
 {
-    "version": "4.0.0",
+    "version": "4.1.3",
     "descriptions": [
         "Muffled sounds behind walls",
         "Auto reverb in tunnels, caves, car parks and interiors",
@@ -20,6 +20,13 @@
         "Place sounds, speakers, room footprints and reverb areas",
         "Edit engine settings in-game",
         "Export placed sounds as pasteable code",
-        "Walk around and test without losing work"
+        "Walk around and test without losing work",
+        "Space presets: nightclub, bar, lounge, beach, concert, carmeet. One line in your config turns a single-point sound into a full venue",
+        "Multi-speaker emitter rings for venues.",
+        "Automatic room fill: music fills the interior it plays in, no setup needed.",
+        "New exports: setSpacePreset, setEmitterRing",
+        "Interior/portal filter now works when listening from outside a venue",
+        "Sound no longer disappears completely after walking out of a door",
+        "Late joiners now hear sounds that were already playing"
     ]
 }
