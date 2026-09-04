@@ -1,5 +1,5 @@
 {
-    "version": "4.1.3",
+    "version": "4.1.4",
     "descriptions": [
         "Muffled sounds behind walls",
         "Auto reverb in tunnels, caves, car parks and interiors",
@@ -27,6 +27,9 @@
         "New exports: setSpacePreset, setEmitterRing",
         "Interior/portal filter now works when listening from outside a venue",
         "Sound no longer disappears completely after walking out of a door",
-        "Late joiners now hear sounds that were already playing"
+        "Late joiners now hear sounds that were already playing",
+        "Fix surroundcreator problems",
+        "Fix multiple speaker echo problem",
+        "Fix surroundcreator sync problem"
     ]
 }
