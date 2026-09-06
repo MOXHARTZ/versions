@@ -1,5 +1,5 @@
 {
-    "version": "4.1.4",
+    "version": "4.1.5",
     "descriptions": [
         "Muffled sounds behind walls",
         "Auto reverb in tunnels, caves, car parks and interiors",
@@ -30,6 +30,9 @@
         "Late joiners now hear sounds that were already playing",
         "Fix surroundcreator problems",
         "Fix multiple speaker echo problem",
-        "Fix surroundcreator sync problem"
+        "Fix surroundcreator sync problem",
+        "using fxv2 oal for faster natives",
+        "using glm for faster math",
+        "Fix youtubekey dump issue"
     ]
 }
