@@ -1,5 +1,5 @@
 {
-    "version": "4.1.5",
+    "version": "4.1.7",
     "descriptions": [
         "Muffled sounds behind walls",
         "Auto reverb in tunnels, caves, car parks and interiors",
@@ -33,6 +33,7 @@
         "Fix surroundcreator sync problem",
         "using fxv2 oal for faster natives",
         "using glm for faster math",
-        "Fix youtubekey dump issue"
+        "Fix youtubekey dump issue",
+        "Remove yarn & node module dependency"
     ]
 }
