@@ -1,5 +1,5 @@
 {
-    "version": "4.1.8",
+    "version": "4.1.9",
     "descriptions": [
         "Muffled sounds behind walls",
         "Auto reverb in tunnels, caves, car parks and interiors",
@@ -35,6 +35,7 @@
         "using glm for faster math",
         "Fix youtubekey dump issue",
         "Remove yarn & node module dependency",
-        "Youtubekey is not necessary anymore. its optional."
+        "Youtubekey is not necessary anymore. its optional.",
+        "Fix Invalid player for sound issue"
     ]
 }
