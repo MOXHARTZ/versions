@@ -1,5 +1,5 @@
 {
-    "version": "4.1.9",
+    "version": "4.2.0",
     "descriptions": [
         "Muffled sounds behind walls",
         "Auto reverb in tunnels, caves, car parks and interiors",
@@ -36,6 +36,7 @@
         "Fix youtubekey dump issue",
         "Remove yarn & node module dependency",
         "Youtubekey is not necessary anymore. its optional.",
-        "Fix Invalid player for sound issue"
+        "Fix Invalid player for sound issue",
+        "Fixed the issue where the sound would cut out immediately upon exiting the interior"
     ]
 }
