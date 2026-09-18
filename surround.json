@@ -1,5 +1,5 @@
 {
-    "version": "4.2.0",
+    "version": "4.2.1",
     "descriptions": [
         "Muffled sounds behind walls",
         "Auto reverb in tunnels, caves, car parks and interiors",
@@ -37,6 +37,7 @@
         "Remove yarn & node module dependency",
         "Youtubekey is not necessary anymore. its optional.",
         "Fix Invalid player for sound issue",
-        "Fixed the issue where the sound would cut out immediately upon exiting the interior"
+        "Fixed the issue where the sound would cut out immediately upon exiting the interior",
+        "Possible fix for when player A plays a song, player B, who is far away, does not hear it"
     ]
 }
